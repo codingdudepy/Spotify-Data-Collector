@@ -25,4 +25,4 @@ Frequently asked questions or possible questions asked about the application
 
 
 
-<a href="https://spotifydatacollection.herokuapp.com/">Live Demo</a>
+<a href="https://spotifydatacollection.herokuapp.com/" target="_blank">Live Demo</a>
